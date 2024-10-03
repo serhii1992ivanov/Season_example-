@@ -44,3 +44,4 @@ public class SeasonExample {
     WINTER, SPRING, SUMMER, AUTUMN
   }
 }
+
